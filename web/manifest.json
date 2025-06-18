@@ -1,6 +1,6 @@
 {
-    "name": "jules",
-    "short_name": "jules",
+    "name": "vyappar_application",
+    "short_name": "vyappar_application",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

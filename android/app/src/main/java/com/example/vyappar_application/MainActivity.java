@@ -1,4 +1,4 @@
-package com.example.jules;
+package com.example.vyappar_application;
 
 import io.flutter.embedding.android.FlutterActivity;
 
